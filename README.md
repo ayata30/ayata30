@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-💻I am a junior Computer Science student @ University of Texas at El Paso<br>🔭 I’m currently working on Frontend development projects<br>🌱 I’m currently learning Python, Tailwind, and TypeScript.
+💻I am a junior Computer Science student @ University of Texas at El Paso 2027 <br>🔭 I’m currently working on Frontend development projects<br>🌱 I’m currently learning Python, Tailwind, and TypeScript.
 
 
 ## 🌐 Socials:
