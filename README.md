@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 💻 Junior Computer Science Student @ University of Texas at El Paso (Class of 2027) <br>
 🔭 Currently working on full-stack development projects, contributing to open source, and exploring AI/ML.<br>
-🌱 Deepening my skills in Python, Tailwind CSS, and TypeScript. 
+🌱 Deepening my skills in Python, Tailwind CSS, and TypeScript. <br>
 🌱Taking notes on System desgin [here](https://docs.google.com/document/d/1a9RMQeiP58eleofcWUOWwuWcfMK-dpKIFuhp9BCVi6w/edit?tab=t.0)
 
 ## 🌐 Socials:
