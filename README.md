@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Ayat!
 
-🎓 **Computer Science Student** at the University of Texas at El Paso (Class of 2027–2028)  
-🔭 **Aspiring Software Engineer** interested in Machine Learning & Full-Stack Development  
+🎓 **Computer Science Student** at the University of Texas at El Paso (Class of 2027)  
+🔭 **Software Engineer** interested in Machine Learning & Full-Stack Development  
 
-I’m passionate about building real-world applications, learning by doing, and continuously improving my engineering fundamentals.  
+I’m passionate about building real-world applications, learning by doing, and improving my engineering fundamentals.  
 Currently, I’m focused on **backend systems**, **machine learning pipelines**, and **full-stack web applications**, with hands-on experience from internships, fellowships, and open-source contributions.
 
 I’m actively seeking **software engineering internships** where I can contribute to impactful projects and grow alongside experienced engineers.
@@ -11,14 +11,13 @@ I’m actively seeking **software engineering internships** where I can contribu
 ---
 
 ## 🎯 Featured Project: **QuranDetect**
-A Shazam-inspired full stack web application that identifies Quran verses or Surahs from user audio input.
+A Shazam-inspired full-stack web application that identifies Quran verses or Surahs from user audio input.
 
 **What it does**
 - Processes user audio recordings to identify Quranic verses  
 - Uses speech recognition and NLP techniques for accurate transcription  
--  Backend logic for Quran verse identification  
-- Text preprocessing and similarity matching  
-- API-based architecture to support  audio input  
+- Implements backend logic for verse identification and similarity matching  
+- Designed with an API-based architecture to support audio input and future scalability  
 
 **Tech Stack**
 - React  
@@ -27,33 +26,61 @@ A Shazam-inspired full stack web application that identifies Quran verses or Sur
 - SQL  
 
 📌 *Status:* In progress  
-🔗 *Repository:* **https://github.com/ayata30/quran2**
+🔗 *Repository:* https://github.com/ayata30/quran2
 
 ---
+
 ## 🛠 Tech Stack
 
-**Languages**  
-- Python, Java, JavaScript, TypeScript, C   
+<table>
+  <tr>
+    <td valign="top">
 
-**Data & ML**  
-- Pandas, NumPy, scikit-learn, Matplotlib 
-- TensorFlow (learning)  
+### 🧑‍💻 Languages
+- Python  
+- Java  
+- JavaScript  
+- TypeScript  
+- C  
 
-**Web Development**  
-- HTML, CSS, JavaScript
+### 🧠 Data & ML
+- Pandas  
+- NumPy  
+- scikit-learn  
+- Matplotlib  
+- TensorFlow *(learning)*  
+
+    </td>
+    <td valign="top">
+
+### 🌐 Web Development
+- HTML, CSS, JavaScript  
 - Node.js, Express.js  
-- React, Tailwind CSS 
+- React, Tailwind CSS  
 
-**Databases**  
-- SQL, MySQL
+### 🗄 Databases
+- SQL, MySQL  
 
-**Cloud & DevOps**  
-AWS (EC2 S3) (learning) 
+### ☁ Cloud & DevOps
+- AWS (EC2, S3) *(learning)*  
 
-**Dev Tools**  
-- Git, Postman, Jira, Expo, Github
--  MongoDB, JavaFX, Vue 3, Vuetify  
-- Jupyter Notebooks, Google Colab  
+    </td>
+    <td valign="top">
+
+### 🛠 Dev Tools
+- Git, GitHub  
+- Postman, Jira  
+- Expo  
+- MongoDB  
+- JavaFX  
+- Vue 3, Vuetify  
+- Jupyter Notebooks  
+- Google Colab  
+
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🚀 Projects
@@ -83,35 +110,20 @@ A Java-based Formula 1 race analysis engine focused on performance visualization
 - Interactive GUI for driver performance analysis  
 
 ---
-<!--- Wrap text ---### 🔐 Teen Social Media Safety Website
-A mobile-friendly platform for hosting social media safety workshops.
 
-**Tech Stack**
-- HTML, CSS, JavaScript  
-
-**Highlights**
-- Real-time attendance tracking  
-- User authentication  
-- Rate limiting to reduce fraudulent registrations  
-<!--- Wrap text --->
-
-
-## 📫 How to Reach Me
-
-📧 Email: **ayataadams@gmail.com**  
-💼 LinkedIn: **https://linkedin.com/in/ayat-adams**  
-💻 GitHub: **https://github.com/ayata30** 
+## 💼 Experience
+- **IT & Computer Lab Intern**  
+- **AI & ML Fellow**
 
 ---
 
-### 💼 Experience
-
-**IT & Computer Lab Intern**  
-**AI & ML Fellow**
+## 📫 How to Reach Me
+📧 **Email:** ayataadams@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/ayat-adams  
+💻 **GitHub:** https://github.com/ayata30  
 
 ---
 
 ## ✨ Fun Fact
 I enjoy learning about history and languages and am currently building a **language-learning app** focused on **Spanish and Arabic**.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayata30)
