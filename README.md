@@ -1,42 +1,117 @@
-## Hi there👋
+# 👋 Hi, I'm Ayat!
 
-<!--
-**ayata30/ayata30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** at the University of Texas at El Paso (Class of 2027–2028)  
+🔭 **Aspiring Software Engineer** interested in Machine Learning & Full-Stack Development  
 
-Here are some ideas to get you started:
+I’m passionate about building real-world applications, learning by doing, and continuously improving my engineering fundamentals.  
+Currently, I’m focused on **backend systems**, **machine learning pipelines**, and **full-stack web applications**, with hands-on experience from internships, fellowships, and open-source contributions.
 
-- 🔭 I’m currently working on Frontend devlopement projecs
-- 🌱 I’m currently learning Python, Tailwind, TypeScript.
-- 💬 Ask me about c
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I 
--->
-
-# 💫 About Me:
-💻 Junior Computer Science Student @ University of Texas at El Paso (Class of 2027) <br>
-🔭 Currently working on full-stack development projects, contributing to open source, and exploring AI/ML.<br>
-🌱 Deepening my skills in Python, Tailwind CSS, and TypeScript. Everything FullStack. <br>
-🔎 Looking for Summer 2026 software enginerring  internship opportunties!
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayat-adams/)
-
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/username=ayata30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I’m actively seeking **software engineering internships** where I can contribute to impactful projects and grow alongside experienced engineers.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayata30&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🎯 Featured Project: **QuranDetect**
+A Shazam-inspired full stack web application that identifies Quran verses or Surahs from user audio input.
+
+**What it does**
+- Processes user audio recordings to identify Quranic verses  
+- Uses speech recognition and NLP techniques for accurate transcription  
+-  Backend logic for Quran verse identification  
+- Text preprocessing and similarity matching  
+- API-based architecture to support  audio input  
+
+**Tech Stack**
+- React  
+- Python, FastAPI  
+- Google Gemini API  
+- SQL  
+
+📌 *Status:* In progress  
+🔗 *Repository:* **https://github.com/ayata30/quran2**
+
+---
+## 🛠 Tech Stack
+
+**Languages**  
+- Python, Java, JavaScript, TypeScript, C   
+
+**Data & ML**  
+- Pandas, NumPy, scikit-learn, Matplotlib 
+- TensorFlow (learning)  
+
+**Web Development**  
+- HTML, CSS, JavaScript
+- Node.js, Express.js  
+- React, Tailwind CSS 
+
+**Databases**  
+- SQL, MySQL
+
+**Cloud & DevOps**  
+AWS (EC2 S3) (learning) 
+
+**Dev Tools**  
+- Git, Postman, Jira, Expo, Github
+-  MongoDB, JavaFX, Vue 3, Vuetify  
+- Jupyter Notebooks, Google Colab  
+---
+
+## 🚀 Projects
+
+### 📝 NoteSync
+A full-stack note-taking web application supporting real-time note management across devices.
+
+**Tech Stack**
+- MongoDB, Express.js, React, Node.js  
+
+**Key Features**
+- RESTful API with full CRUD operations  
+- Authentication and rate limiting for security  
+- Real-time updates for seamless user experience  
+
+---
+
+### 🏎️ F1ApexAnalyzer *(Under Construction)*
+A Java-based Formula 1 race analysis engine focused on performance visualization.
+
+**Tech Stack**
+- Java, JavaFX  
+
+**Highlights**
+- Object-oriented race simulation and physics modeling  
+- Real-time telemetry visualization  
+- Interactive GUI for driver performance analysis  
+
+---
+<!--- Wrap text ---### 🔐 Teen Social Media Safety Website
+A mobile-friendly platform for hosting social media safety workshops.
+
+**Tech Stack**
+- HTML, CSS, JavaScript  
+
+**Highlights**
+- Real-time attendance tracking  
+- User authentication  
+- Rate limiting to reduce fraudulent registrations  
+<!--- Wrap text --->
 
 
+## 📫 How to Reach Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayata30&layout=compact)
+📧 Email: **ayataadams@gmail.com**  
+💼 LinkedIn: **https://linkedin.com/in/ayat-adams**  
+💻 GitHub: **https://github.com/ayata30** 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ayata30)
+---
 
+### 💼 Experience
+
+**IT & Computer Lab Intern**  
+**AI & ML Fellow**
+
+---
+
+## ✨ Fun Fact
+I enjoy learning about history and languages and am currently building a **language-learning app** focused on **Spanish and Arabic**.
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayata30)
