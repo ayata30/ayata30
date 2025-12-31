@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Ayat!
 
 🎓 **Computer Science Student** at the University of Texas at El Paso (Class of 2027)  
-🔭 **Software Engineer** interested in Machine Learning & Full-Stack Development  
+🔭 **Software Engineer** interested in Full-Stack Development  
 
-I’m passionate about building real-world applications, learning by doing, and improving my engineering fundamentals.  
-Currently, I’m focused on **backend systems**, **machine learning pipelines**, and **full-stack web applications**, with hands-on experience from internships, fellowships, and open-source contributions.
+I’m passionate about building real-world applications. Currently, I’m focused on **backend systems**, and **full-stack web applications**, with hands-on experience from internships, fellowships, and open-source contributions.
 
 I’m actively seeking **software engineering internships** where I can contribute to impactful projects and grow alongside experienced engineers.
 
@@ -111,19 +110,7 @@ A Java-based Formula 1 race analysis engine focused on performance visualization
 
 ---
 
-## 💼 Experience
-- **IT & Computer Lab Intern**  
-- **AI & ML Fellow**
-
----
-
 ## 📫 How to Reach Me
 📧 **Email:** ayataadams@gmail.com  
 💼 **LinkedIn:** https://linkedin.com/in/ayat-adams  
 💻 **GitHub:** https://github.com/ayata30  
-
----
-
-## ✨ Fun Fact
-I enjoy learning about history and languages and am currently building a **language-learning app** focused on **Spanish and Arabic**.
-
