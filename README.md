@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayat!
 
-🎓 **Computer Science Student** at the University of Texas at El Paso (Class of 2027)  
+🎓 **Computer Science Student** at the University of Texas at El Paso
 🔭 **Software Engineer** interested in Full-Stack Development  
 
 I’m passionate about building real-world applications. Currently, I’m focused on **backend systems**, and **full-stack web applications**, with hands-on experience from internships, fellowships, and open-source contributions.
@@ -47,7 +47,6 @@ A Shazam-inspired full-stack web application that identifies Quran verses or Sur
 - NumPy  
 - scikit-learn  
 - Matplotlib  
-- TensorFlow *(learning)*  
 
     </td>
     <td valign="top">
@@ -67,7 +66,7 @@ A Shazam-inspired full-stack web application that identifies Quran verses or Sur
     <td valign="top">
 
 ### 🛠 Dev Tools
-- Git, GitHub  
+- Git 
 - Postman, Jira  
 - Expo  
 - MongoDB  
