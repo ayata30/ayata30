@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayat!
 
-🎓 **Computer Science Student** at the University of Texas at El Paso
+🎓 **Computer Science Student** at the University of Texas at El Paso<br>
 🔭 **Software Engineer** interested in Full-Stack Development  
 
 I’m passionate about building real-world applications. Currently, I’m focused on **backend systems**, and **full-stack web applications**, with hands-on experience from internships, fellowships, and open-source contributions.
