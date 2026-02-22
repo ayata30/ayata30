@@ -19,10 +19,9 @@ A Shazam-inspired full-stack web application that identifies Quran verses or Sur
 - Designed with an API-based architecture to support audio input and future scalability  
 
 **Tech Stack**
-- React  
-- Python, FastAPI  
-- Google Gemini API  
-- SQL  
+- React, Tailwind CSS  
+- Python, FastAPI, Docker  
+- Google Speech to text API  
 
 📌 *Status:* In progress  
 🔗 *Repository:* https://github.com/ayata30/quran2
@@ -56,14 +55,7 @@ A Shazam-inspired full-stack web application that identifies Quran verses or Sur
 - Node.js, Express.js  
 - React, Tailwind CSS  
 
-### 🗄 Databases
-- SQL, MySQL  
 
-### ☁ Cloud & DevOps
-- AWS (EC2, S3) *(learning)*  
-
-    </td>
-    <td valign="top">
 
 ### 🛠 Dev Tools
 - Git 
@@ -73,7 +65,7 @@ A Shazam-inspired full-stack web application that identifies Quran verses or Sur
 - JavaFX  
 - Vue 3, Vuetify  
 - Jupyter Notebooks  
-- Google Colab  
+ 
 
     </td>
   </tr>
