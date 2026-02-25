@@ -23,7 +23,7 @@ A Shazam-inspired full-stack web application that identifies Quran verses or Sur
 - Python, FastAPI, Docker  
 - Google Speech to text API  
 
-📌 *Status:* In progress  
+📌 *Live site*:https://qurandetect.vercel.app/
 🔗 *Repository:* https://github.com/ayata30/quran2
 
 ---
