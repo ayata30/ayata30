@@ -59,12 +59,10 @@ A Shazam-inspired full-stack web application that identifies Quran verses or Sur
 
 ### 🛠 Dev Tools
 - Git 
-- Postman, Jira  
+- Postman
 - Expo  
 - MongoDB  
-- JavaFX  
-- Vue 3, Vuetify  
-- Jupyter Notebooks  
+- JavaFX 
  
 
     </td>
