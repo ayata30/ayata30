@@ -74,30 +74,7 @@ A Shazam-inspired full-stack web application that identifies Quran verses or Sur
 ---
 
 ## 🚀 Projects
-
-### 📝 NoteSync
-A full-stack note-taking web application supporting real-time note management across devices.
-
-**Tech Stack**
-- MongoDB, Express.js, React, Node.js  
-
-**Key Features**
-- RESTful API with full CRUD operations  
-- Authentication and rate limiting for security  
-- Real-time updates for seamless user experience  
-
----
-
-### 🏎️ F1ApexAnalyzer *(Under Construction)*
-A Java-based Formula 1 race analysis engine focused on performance visualization.
-
-**Tech Stack**
-- Java, JavaFX  
-
-**Highlights**
-- Object-oriented race simulation and physics modeling  
-- Real-time telemetry visualization  
-- Interactive GUI for driver performance analysis  
+# updates coming soon
 
 ---
 
