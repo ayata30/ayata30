@@ -61,22 +61,16 @@ A Shazam-inspired full-stack web application that identifies Quran verses or Sur
 - Git 
 - Postman
 - Expo  
-- MongoDB  
-- JavaFX 
+- MongoDB 
  
 
     </td>
   </tr>
 </table>
 
----
-
-## 🚀 Projects
-# updates coming soon
 
 ---
 
 ## 📫 How to Reach Me
 📧 **Email:** ayataadams@gmail.com  
 💼 **LinkedIn:** https://linkedin.com/in/ayat-adams  
-💻 **GitHub:** https://github.com/ayata30  
