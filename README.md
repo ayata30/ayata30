@@ -31,7 +31,6 @@ A Shazam-inspired full-stack web application that identifies Quran verses or Sur
 ## 🛠 Tech Stack
 
 <table>
-  <tr>
     <td valign="top">
 
 ### 🧑‍💻 Languages
@@ -40,32 +39,11 @@ A Shazam-inspired full-stack web application that identifies Quran verses or Sur
 - JavaScript  
 - TypeScript  
 - C  
-
-### 🧠 Data & ML
-- Pandas  
-- NumPy  
-- scikit-learn  
-- Matplotlib  
-
-    </td>
-    <td valign="top">
-
-### 🌐 Web Development
-- HTML, CSS, JavaScript  
+- HTML, CSS
 - Node.js, Express.js  
 - React, Tailwind CSS  
 
-
-
-### 🛠 Dev Tools
-- Git 
-- Postman
-- Expo  
-- MongoDB 
- 
-
     </td>
-  </tr>
 </table>
 
 
