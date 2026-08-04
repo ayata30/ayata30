@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Ayat!
 
 🎓 **Computer Science Student** at the University of Texas at El Paso<br>
-🔭 **Software Engineer** interested in Full-Stack Development  
 
-I’m passionate about building real-world applications. Currently, I’m focused on **backend systems**, and **full-stack web applications**, with hands-on experience from internships, fellowships, and open-source contributions.
+I’m passionate about building real applications. I’m focused on **backend systems**, and **full-stack web applications**, with experience from internships, fellowships, and open-source contributions.
 
-I’m actively seeking **software engineering internships** where I can contribute to impactful projects and grow alongside experienced engineers.
+I’m actively seeking **software engineering internships**
 
 ---
 
@@ -19,8 +18,7 @@ A Shazam-inspired full-stack web application that identifies Quran verses or Sur
 - Designed with an API-based architecture to support audio input and future scalability  
 
 **Tech Stack**
-- React, Tailwind CSS  
-- Python, FastAPI, Docker  
+- React, Tailwind CSS,  Python, FastAPI, Docker  
 - Google Speech to text API  
 
 📌 *Live site*:https://qurandetect.vercel.app/
@@ -28,16 +26,12 @@ A Shazam-inspired full-stack web application that identifies Quran verses or Sur
 
 ---
 
-## 🛠 Tech Stack
-
 <table>
     <td valign="top">
 
 ### 🧑‍💻 Languages
-- Python  
-- Java  
-- JavaScript  
-- TypeScript  
+- Python,  Java  
+- JavaScript , TypeScript  
 - C  
 - HTML, CSS
 - Node.js, Express.js  
@@ -49,6 +43,5 @@ A Shazam-inspired full-stack web application that identifies Quran verses or Sur
 
 ---
 
-## 📫 How to Reach Me
 📧 **Email:** ayataadams@gmail.com  
 💼 **LinkedIn:** https://linkedin.com/in/ayat-adams  
