@@ -35,8 +35,3 @@ A Shazam-inspired full-stack web application that identifies Quran verses or Sur
 
     </td>
 </table>
-
-
----
-📧 **Email:** ayataadams@gmail.com  
-💼 **LinkedIn:** https://linkedin.com/in/ayat-adams 
