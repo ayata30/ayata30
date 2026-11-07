@@ -1,37 +1,18 @@
-# 👋 Hi, I'm Ayat!
+# Hey, I'm Ayat! 👋
 
-🎓 **Computer Science Student** at the University of Texas at El Paso<br>
+🎓 Computer Science student at UTEP
 
-I’m passionate about building real applications. I’m focused on **backend systems**, and **full-stack web applications**, with experience from internships, fellowships, and open-source contributions.
+I enjoy building software, solving problems, and learning how things work. Currently exploring full-stack development and building projects with React, Python, and JavaScript.
 
-Seeking **Fall 2026 software engineering internships**
+### 🚀 Featured Projects
 
-## 🎯 Featured Project: **QuranDetect**
-A Shazam-inspired full-stack web application that identifies Quran verses or Surahs from user audio input.
+- 🏎️ **[F1 Trackside](https://github.com/ayata30/f1-trackside)** – A Formula 1 dashboard for race results, driver standings, and more.
+- 📖 **[QuranDetect](https://github.com/ayata30/quran2)** – A Shazam-inspired application that identifies Quranic verses from audio.
 
-**What it does**
-- Processes user audio recordings to identify Quranic verses  
-- Uses speech recognition for accurate transcription  
-- Implements backend logic for verse identification and similarity matching  
-- Designed with an API-based architecture to support audio input and future scalability  
+### 🛠️ Tech
 
-**Tech Stack**
-- React, Tailwind CSS,  Python, FastAPI, Docker,  Google Speech to text API  
+Python · Java · JavaScript · TypeScript · React · FastAPI · HTML · CSS
 
-📌 *Live site*: https://qurandetect.vercel.app/
-🔗 *Repository:* https://github.com/ayata30/quran2
+### 🔗 Connect
 
----
-
-<table>
-    <td valign="top">
-
-### 🧑‍💻 Languages
-- Python,  Java  
-- JavaScript , TypeScript  
-- C, HTML, CSS
-- Node.js, Express.js  
-- React, Tailwind CSS  
-
-    </td>
-</table>
+[LinkedIn](https://www.linkedin.com/in/ayat-adams/) · [Portfolio](https://ayat-adams-portfolio.vercel.app/)
